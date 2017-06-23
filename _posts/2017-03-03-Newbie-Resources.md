@@ -28,6 +28,7 @@ code.org [Course 2][3]  Further develop *computational thinking* skills
 [PublishYourDesign][5]  Develop navigation / spatial skills using Legos!
 [PBS Kids][6]           Increase comfort with PC's through kids games
 [Tynker][7]             Games that teach *computational thinking* skills
+[ABCYa][8]               Educational games for kids
 
 [1]: https://code.org/learn
 [2]: https://studio.code.org/s/course1
@@ -36,3 +37,4 @@ code.org [Course 2][3]  Further develop *computational thinking* skills
 [5]: http://www.publishyourdesign.com/design
 [6]: http://pbskids.org/
 [7]: https://www.tynker.com/hour-of-code
+[8]: http://www.abcya.com
