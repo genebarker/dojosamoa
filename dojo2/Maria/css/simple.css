@@ -1,0 +1,47 @@
+body {
+font-family: sans-serif;
+background-image:url('../images/luna.jpg');
+}
+
+ul{
+   border-style:solid;
+   b
+   
+}
+ul li {            
+    border-styld:solid;  
+    border-width:1px; 
+    border-color:red;
+    list-style-type: none;
+    display: inlin;
+
+}
+h1{
+ Padding:12px;
+ background-color:black;
+  color:white;
+border-radius:10px;
+}
+
+h2{
+Padding:12px;
+ background-color:black;
+  color:white;
+border-radius:10px;
+}
+
+p{
+Padding:12px;
+ background-color:black;
+  color:white;
+border-radius:10px;
+}
+li{
+Padding:12px;
+ background-color:black;
+  color:white;
+border-radius:10px;
+}
+
+
+       

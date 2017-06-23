@@ -1,0 +1,11 @@
+# Site settings
+title: dojosamoa.org
+description: "We are a local CoderDojo in Samoa sponsored by Digicel, We code on Sat's from 10 am to noon during school terms."
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://dojosamoa.org" # the base hostname & protocol for your site
+author: "eugene"
+
+# Build settings
+gems:
+  - jekyll-pandoc
+markdown: pandoc

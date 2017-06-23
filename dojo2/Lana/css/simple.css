@@ -1,0 +1,33 @@
+body {
+font-family: sans-serif;
+background-image:url('../images/background5.jpg');
+color: white;
+}
+
+h1{
+padding: 12px;
+background-color:black;
+color:white;
+border-radius: 10px;
+}
+
+ul {
+border-style:striped;
+border-width:2px;
+padding:10px;
+border-radius10px;
+background-color:blue;
+
+}
+ul li{
+list-style-type:none;
+
+display:inline;
+margin-right:10px;
+margin-left:10px;
+
+}
+
+ul li a{
+color:silver;
+}
